@@ -72,9 +72,9 @@ func NewSession(conn io.ReadWriteCloser) *Session {
 }
 
 func (s *Session) Close() error {
-	s.conn.Close()
 	s.shutdown = true
 	close(s.shutdownCh)
+	s.conn.Close()
 	return nil
 }
 

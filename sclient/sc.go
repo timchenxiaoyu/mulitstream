@@ -30,14 +30,15 @@ func main() {
 			fmt.Println(err)
 		}
 
+		time.Sleep(time.Second*3)
 		err = client.SendGet("/hello")
 
 		if err != nil{
 			fmt.Println(err)
 		}
-		time.Sleep(time.Second *1)
+
 		client.Stop()
-		time.Sleep(time.Second *5)
+		time.Sleep(time.Second *2)
 
 	}
 
