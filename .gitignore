@@ -1,1 +1,5 @@
 .idea
+*exe
+client/client
+sclient/sclient
+server/server

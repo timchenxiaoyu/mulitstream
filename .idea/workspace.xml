@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95aad41-ec7a-4b66-bbdc-08fb886205a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sclient/sc.go" beforeDir="false" afterPath="$PROJECT_DIR$/sclient/sc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sclient/sclient" beforeDir="false" afterPath="$PROJECT_DIR$/sclient/sclient" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session.go" beforeDir="false" afterPath="$PROJECT_DIR$/session.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sserver/sserver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/sserver/sserver.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
